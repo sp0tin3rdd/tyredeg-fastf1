@@ -20,7 +20,7 @@ from tire_degradation_analysis import load_session, get_driver_stints, fit_degra
 
 # ---------------- CONFIG ----------------
 SESSIONS = [
-    (2025, "Bahrain", "R"),
+    (2026, "Austria", "R"),
 ]
 MIN_GROUP_SIZE = 2   # only report strategies shared by at least this many drivers
 # -----------------------------------------
